@@ -19,10 +19,7 @@ scoped_model: ^1.0.1
  - Calculate overall pricing
  
  
- 
  ### Screenshots
  
+<img src="screenshot/home.jpg" width="250px">   <img src="screenshot/cart.jpg" width="250px">
  
- 
- 
- ### Demo Video
